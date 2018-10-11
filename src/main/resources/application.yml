@@ -1,0 +1,9 @@
+server:
+  port: 1819
+
+your:
+  configs:
+    here:
+      message: Here is how you access system environment variables
+      comment: I chose JAVA_HOME because I expect you have set it already.
+      java.home: ${JAVA_HOME}
