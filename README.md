@@ -1,4 +1,4 @@
-# Environemnet variables in Spring Boot project
+# Environment variables in Spring Boot project
 Different ways to access environment variables at run time from Spring Boot project.
 
 1. `System.getenv()`
